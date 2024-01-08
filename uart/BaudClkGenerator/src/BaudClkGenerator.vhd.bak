@@ -1,0 +1,81 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+-- UART ST|DDDDDDDD|SP
+
+entity BaudClkGenerator is
+	generic (
+		NUMBER_OF_CLOCK : integer := 10;
+		SYS_CLK_FREQ	 : integer := 50000000;
+		BAUD_RATE		 : integer := 115200
+	);
+	port(
+		clk		: in		std_logic; -- 50 MGHz
+		Rst		: in		std_logic;
+		Start 	: in		std_logic;
+		
+		Baudclk	: out		std_logic;
+		done		: out 	std_logic
+	);
+end entity;
+
+
+architecture rtl of BaudClkGenerator is
+
+constant BIT_PERIOD 	: integer := SYS_CLK_FREQ / BAUD_RATE;
+signal bitperiodcounter : integer range 0 to BIT_PERIOD;
+signal clockleft 	: integer range 0 to NUMBER_OF_CLOCK;
+
+
+begin
+	
+	bit_period_process:process(rst,clk)
+	begin
+		if rst = '0' then
+			bitperiodcounter <= 0;
+			Baudclk <= '0';
+		elsif rising_edge(clk) then
+			if clockleft > 0 then
+				if bitperiodcounter = BIT_PERIOD then
+					Baudclk <= '1';
+					bitperiodcounter <= 0;
+				else
+					Baudclk <= '0';
+					bitperiodcounter <= bitperiodcounter + 1;
+				end if;
+			else
+				-- if clocksleft is equal to zero then
+				bitperiodcounter <= 0;
+				Baudclk <= '0';
+			end if;
+	end if;
+	end process;
+	
+	clock_counter_process:process(rst,clk)
+	begin
+		if rst = '0' then
+			clockleft <= 0;
+		elsif rising_edge(clk) then
+			if start = '1' then
+				clockleft <= NUMBER_OF_CLOCK;
+			elsif baudclk = '1' then
+				clockleft <= clockleft - 1;
+			end if;
+	
+		end if;
+	end process;
+	
+	clock_times_generator_done:process(rst,clk)
+	begin
+		if rst = '0' then
+			done <= '0';
+		elsif rising_edge(clk) then
+			if start = '1' then
+				done <= '0';
+			else if clockleft = 0 then
+				done <= '1';
+			end if;
+		end if; 
+end process;
+end rtl;
