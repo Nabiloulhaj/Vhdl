@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Receiver_tb is
+	generic(
+		SYS_CLK_FREQ        : integer := 50000000;
+		BAUD_RATE           : integer := 115200
+		N						  : integer:=8
+	);
+
+end entity;
+
+architecture rtl of Receiver_tb is
+
+
+
+begin 
+
+
+
+end rtl;
