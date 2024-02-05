@@ -1,0 +1,24 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity ShiftRegister is
+	generic (
+	
+	
+	);
+	port(
+
+
+	);
+		
+		
+end entity;
+
+architecture rtl of ShiftRegister is
+
+
+begin
+
+
+end rtl;
