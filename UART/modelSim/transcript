@@ -1,0 +1,15 @@
+vsim -gui work.l1_inst_cach_tb
+# vsim -gui work.l1_inst_cach_tb 
+# Start time: 22:23:28 on Jan 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.l1_inst_cach_tb(tb_arch)
+# Loading work.l1_inst_cach(rtl)
+# Loading work.direct_map_array(rtl)
+# ** Error: (vsim-3173) Entity 'C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/modelSim/work.mux21' has no architecture.
+# Load interrupted
+# Error loading design
+# End time: 22:23:29 on Jan 31,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1

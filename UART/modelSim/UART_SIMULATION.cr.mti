@@ -1,0 +1,154 @@
+C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BaudClkGenerator
+-- Compiling architecture rtl of BaudClkGenerator
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Receiver
+-- Compiling architecture rtl of Receiver
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Serialiser_Shift_register_tb
+-- Compiling architecture rtl of Serialiser_Shift_register_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd(37): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd(63): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Receiver_tb
+-- Compiling architecture rtl of Receiver_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(66): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BaudClkGenerator_tb
+-- Compiling architecture rtl of BaudClkGenerator_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd(42): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd(53): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftRegister
+-- Compiling architecture rtl of ShiftRegister
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd {1 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Synchroniser
+-- Compiling architecture rtl of Synchroniser
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Synchroniser_tb
+-- Compiling architecture rtl of Synchroniser_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd(32): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd(45): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftRegister_tb
+-- Compiling architecture rtl of ShiftRegister_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(60): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(65): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(81): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(84): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(92): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(97): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(100): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(105): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(108): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(113): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(116): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd(121): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TopLevelModule
+-- Compiling architecture rtl of TopLevelModule
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Transmitter
+-- Compiling architecture rtl of Transmitter
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity TopLevelModule_tb
+-- Compiling architecture rtl of TopLevelModule_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(67): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(85): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(90): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(95): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(102): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd(104): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd {2 {vcom -work work -2008 -explicit -stats=none C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Transmitter_tb
+-- Compiling architecture rtl of Transmitter_tb
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd(59): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

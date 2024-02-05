@@ -1,0 +1,782 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Ebaudclkgenerator
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+33
+Z2 !s110 1705488141
+!i10b 1
+Z3 w1705217272
+!i122 124
+Z4 dC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/modelSim
+Z5 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd
+Z6 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd
+l0
+L5 1
+VP@>dCjR6lfH4TA0mXSa0L1
+!s100 l>4TK?U>c1Y7Ma;_M[]Vc0
+Z7 OV;C;2020.1;71
+Z8 !s108 1705488141.000000
+Z9 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd|
+Z10 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/src/BaudClkGenerator.vhd|
+!i113 1
+Z11 o-work work -2008 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R0
+R1
+DEx4 work 16 baudclkgenerator 0 22 P@>dCjR6lfH4TA0mXSa0L1
+33
+R2
+!i10b 1
+!i122 124
+l32
+L24 72
+VOG[1^4W0cBH364JG[QBFf3
+!s100 7Ak65n_kMcGL7g`JT9[H21
+R7
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebaudclkgenerator_tb
+R0
+R1
+33
+Z13 !s110 1705488149
+!i10b 1
+Z14 w1704638173
+!i122 125
+R4
+Z15 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd
+Z16 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd
+l0
+L4 1
+V^?bUl]H8Sa4Vn@ING;:ed2
+!s100 R5AU<9H41bW@bGNJ87dnF0
+R7
+Z17 !s108 1705488149.000000
+Z18 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd|
+Z19 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/BaudClkGenerator/tb/BaudClkGenerator_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 19 baudclkgenerator_tb 0 22 ^?bUl]H8Sa4Vn@ING;:ed2
+33
+R13
+!i10b 1
+!i122 125
+l33
+L8 59
+VQ9U=CLFJLFGceJN>b55nI3
+!s100 0ScIZ51QY]>aTM3^cEzET0
+R7
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Ecache_ram
+Z20 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R0
+R1
+33
+Z21 !s110 1706733692
+!i10b 1
+Z22 w1701701739
+!i122 130
+R4
+Z23 8C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/CACHE_RAM/src/CACHE_RAM.vhd
+Z24 FC:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/CACHE_RAM/src/CACHE_RAM.vhd
+l0
+L5 1
+VKWOhKzlfdARkSWN_b>0fL3
+!s100 42V]6jQUzodHh6R0WX6>41
+R7
+Z25 !s108 1706733692.000000
+Z26 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/CACHE_RAM/src/CACHE_RAM.vhd|
+Z27 !s107 C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/CACHE_RAM/src/CACHE_RAM.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R0
+R1
+DEx4 work 9 cache_ram 0 22 KWOhKzlfdARkSWN_b>0fL3
+33
+R21
+!i10b 1
+!i122 130
+l23
+L14 25
+VT5QdFe6?P0d=3UiBfi5Hl1
+!s100 _m5O:216=jTW>m:H9ljm;0
+R7
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Edirect_map_array
+R20
+R0
+R1
+33
+R21
+!i10b 1
+Z28 w1702337033
+!i122 131
+R4
+Z29 8C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/DIRECT_MAP_ARRAY/src/DIRECT_MAP_ARRAY.vhd
+Z30 FC:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/DIRECT_MAP_ARRAY/src/DIRECT_MAP_ARRAY.vhd
+l0
+L5 1
+V?7bJ4]VbS03Kjbd9<7kTU2
+!s100 ;JB4K;JH<G7NMD=`hg5=E0
+R7
+R25
+Z31 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/DIRECT_MAP_ARRAY/src/DIRECT_MAP_ARRAY.vhd|
+Z32 !s107 C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/DIRECT_MAP_ARRAY/src/DIRECT_MAP_ARRAY.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R0
+R1
+DEx4 work 16 direct_map_array 0 22 ?7bJ4]VbS03Kjbd9<7kTU2
+33
+R21
+!i10b 1
+!i122 131
+l21
+L15 25
+V`D06lRohSQ^I`GV_A[8h^0
+!s100 El4bRA:m>l0NlmlA`[hNz2
+R7
+R25
+R31
+R32
+!i113 1
+R11
+R12
+El1_inst_cach
+R20
+R0
+R1
+33
+Z33 !s110 1706735482
+!i10b 1
+Z34 w1706735450
+!i122 134
+R4
+Z35 8C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/src/L1_INST_CACH.vhd
+Z36 FC:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/src/L1_INST_CACH.vhd
+l0
+L4 1
+Vmb@[lCAPG5i4nVj4<>9T;3
+!s100 f;ZW>`1Bk3hR[4=VC`PWP1
+R7
+Z37 !s108 1706735482.000000
+Z38 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/src/L1_INST_CACH.vhd|
+Z39 !s107 C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/src/L1_INST_CACH.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R0
+R1
+DEx4 work 12 l1_inst_cach 0 22 mb@[lCAPG5i4nVj4<>9T;3
+33
+R33
+!i10b 1
+!i122 134
+l40
+L10 52
+VDTGEnNWO:^=Re`lhG;A>h1
+!s100 M7WkS;QOjdHCMKTR2bMSd3
+R7
+R37
+R38
+R39
+!i113 1
+R11
+R12
+El1_inst_cach_tb
+Z40 w1706736043
+R20
+R0
+R1
+!i122 136
+R4
+Z41 8C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/tb/L1_INST_CACH_tb.vhd
+Z42 FC:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/tb/L1_INST_CACH_tb.vhd
+l0
+L5 1
+V]kUh21Z0lfT=ln4F[G`NT1
+!s100 fJZFEX50?Ad25d8d;Dk]G2
+R7
+33
+Z43 !s110 1706736170
+!i10b 1
+Z44 !s108 1706736170.000000
+Z45 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/tb/L1_INST_CACH_tb.vhd|
+Z46 !s107 C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/L1_INST_CACH/tb/L1_INST_CACH_tb.vhd|
+!i113 1
+R11
+R12
+Atb_arch
+R20
+R0
+R1
+Z47 DEx4 work 15 l1_inst_cach_tb 0 22 ]kUh21Z0lfT=ln4F[G`NT1
+!i122 136
+l28
+Z48 L8 91
+Z49 Vg2ne5koDOC?nE`:m[b1Z92
+Z50 !s100 J=3cogSG?e_bE1BIILAH]3
+R7
+33
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R11
+R12
+Emux21
+R0
+R1
+33
+!s110 1706735474
+!i10b 1
+w1700160918
+!i122 133
+R4
+8C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/MUX21/src/MUX21.vhd
+FC:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/MUX21/src/MUX21.vhd
+l0
+L3 1
+VnWD^9T<J1FB:3U_PAkLF03
+!s100 <NT]f;>COHIO[II?h6BR`3
+R7
+!s108 1706735474.000000
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/MUX21/src/MUX21.vhd|
+!s107 C:/Users/LENOVO/Desktop/Nabil/MIPS_VHDL/MUX21/src/MUX21.vhd|
+!i113 1
+R11
+R12
+Ereceiver
+R0
+R1
+33
+Z51 !s110 1705488087
+!i10b 1
+Z52 w1705388334
+!i122 119
+R4
+Z53 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd
+Z54 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd
+l0
+L8 1
+VB0?Wd?FAUdOF[3LSf?e7d3
+!s100 [E3DnzA1kV_VgVdcSiKC91
+R7
+Z55 !s108 1705488087.000000
+Z56 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd|
+Z57 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/src/Receiver.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 8 receiver 0 22 B0?Wd?FAUdOF[3LSf?e7d3
+33
+R51
+!i10b 1
+!i122 119
+l87
+L26 132
+V1dCNm^R:ZlJd68_]]fQ8K2
+!s100 bHm@h`CA:h92UgHB1DJCO0
+R7
+R55
+R56
+R57
+!i113 1
+R11
+R12
+Ereceiver_tb
+R0
+R1
+32
+R51
+!i10b 1
+Z58 w1705398118
+!i122 121
+R4
+Z59 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd
+Z60 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd
+l0
+L4 1
+VlJQb3eD4jNIXhFV9RGl401
+!s100 @?i@]XH^<m;onTCDcPi;@1
+R7
+R55
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd|
+Z62 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Receiver/tb/Receiver_tb.vhd|
+!i113 1
+Z63 o-work work -2002 -explicit
+R12
+Artl
+R0
+R1
+DEx4 work 11 receiver_tb 0 22 lJQb3eD4jNIXhFV9RGl401
+32
+R51
+!i10b 1
+!i122 121
+l41
+L13 73
+V3zkbmXjd6=hYVYSbN6Jmm0
+!s100 VmO?SN3_V1f<dghEMf3RL3
+R7
+R55
+R61
+R62
+!i113 1
+R63
+R12
+Eserialiser_shift_register
+R0
+R1
+33
+Z64 !s110 1705488086
+!i10b 1
+Z65 w1705042067
+!i122 112
+R4
+Z66 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/src/Serialiser_Shift_register.vhd
+Z67 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/src/Serialiser_Shift_register.vhd
+l0
+L4 1
+V`Poi1U0NYA41Q0@LA94Ee2
+!s100 c;z@ZF:B;HcIcd[4h<>EB2
+R7
+Z68 !s108 1705488086.000000
+Z69 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/src/Serialiser_Shift_register.vhd|
+Z70 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/src/Serialiser_Shift_register.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 25 serialiser_shift_register 0 22 `Poi1U0NYA41Q0@LA94Ee2
+33
+R64
+!i10b 1
+!i122 112
+l24
+L20 24
+VmMoIKPUP`PSV2<LhzWVMe0
+!s100 X9YVznFmOXY7TFof@^WU21
+R7
+R68
+R69
+R70
+!i113 1
+R11
+R12
+Eserialiser_shift_register_tb
+R0
+R1
+33
+R64
+!i10b 1
+Z71 w1704712127
+!i122 113
+R4
+Z72 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd
+Z73 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd
+l0
+L4 1
+VcC`h=ZULUV2YhXencY`Xh1
+!s100 `_eBU7mWhl6VR]`679nm61
+R7
+R68
+Z74 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd|
+Z75 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Serialiser_Shift_register/tb/Serialiser_Shift_register_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 28 serialiser_shift_register_tb 0 22 cC`h=ZULUV2YhXencY`Xh1
+33
+R64
+!i10b 1
+!i122 113
+l35
+L11 64
+VHl;ZI^Ri1`STDRH<`L=EX1
+!s100 Pc3_dWnUDCeDX3cl8VDnL1
+R7
+R68
+R74
+R75
+!i113 1
+R11
+R12
+Eshiftregister
+R0
+R1
+33
+R51
+!i10b 1
+Z76 w1705042047
+!i122 115
+R4
+Z77 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd
+Z78 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd
+l0
+L5 1
+V;ON=kXUa1<aJb=idan>=Z2
+!s100 8C:[]HJcQPnm@:E5gZ_9:0
+R7
+R55
+Z79 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd|
+Z80 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/src/ShiftRegister.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 13 shiftregister 0 22 ;ON=kXUa1<aJb=idan>=Z2
+33
+R51
+!i10b 1
+!i122 115
+l24
+L20 37
+V6HS<z=Ia5g<P4hg]5_n8N2
+!s100 fOOi>cOcdjz^NRQgGf3UQ3
+R7
+R55
+R79
+R80
+!i113 1
+R11
+R12
+Eshiftregister_tb
+R0
+R1
+33
+Z81 !s110 1705490005
+!i10b 1
+Z82 w1704884930
+!i122 126
+R4
+Z83 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd
+Z84 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd
+l0
+L5 1
+V2IcO`Rz2GWJLP<3TVB37T3
+!s100 c0;Y;EUS[mF0iNkW:ndC^2
+R7
+Z85 !s108 1705490005.000000
+Z86 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd|
+Z87 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/ShiftRegister/tb/ShiftRegister_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 16 shiftregister_tb 0 22 2IcO`Rz2GWJLP<3TVB37T3
+33
+R81
+!i10b 1
+!i122 126
+l41
+L13 115
+VhadXE5[NHPbQ6iARZBk>H0
+!s100 O@b2Lm4GFz<J3DX=3ml@=2
+R7
+R85
+R86
+R87
+!i113 1
+R11
+R12
+Esynchroniser
+R0
+R1
+33
+R51
+!i10b 1
+Z88 w1704888062
+!i122 117
+R4
+Z89 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd
+Z90 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd
+l0
+L5 1
+V[fI6M?fmB2Di2G0c<6SNk3
+!s100 F:<L[:Dk<k<1=Z>>dKDmL1
+R7
+R55
+Z91 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd|
+Z92 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/src/Synchroniser.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 12 synchroniser 0 22 [fI6M?fmB2Di2G0c<6SNk3
+33
+R51
+!i10b 1
+!i122 117
+l24
+L20 22
+Vz0c>NzV@08QQz?i?WE?_Y2
+!s100 oQ@CUYEZm^8`IX1R8O=[13
+R7
+R55
+R91
+R92
+!i113 1
+R11
+R12
+Esynchroniser_tb
+R0
+R1
+33
+R51
+!i10b 1
+Z93 w1704888160
+!i122 118
+R4
+Z94 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd
+Z95 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd
+l0
+L4 1
+Vn?3Q9=>>bAT`=b_D?A08?3
+!s100 ]G^mXT`R^oJ2MCBB7Mz^D1
+R7
+R55
+Z96 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd|
+Z97 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Synchroniser/tb/Synchroniser_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 15 synchroniser_tb 0 22 n?3Q9=>>bAT`=b_D?A08?3
+33
+R51
+!i10b 1
+!i122 118
+l30
+L10 46
+V51S`EIDOd]00mTFnSn_S[2
+!s100 LXf1Noh2ah;iQHIW^AnLC2
+R7
+R55
+R96
+R97
+!i113 1
+R11
+R12
+Etoplevelmodule
+R0
+R1
+32
+R51
+!i10b 1
+Z98 w1705397599
+!i122 122
+R4
+Z99 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd
+Z100 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd
+l0
+L5 1
+V=R@7jzHVoYEdnSlfPG04W3
+!s100 W>YbnQ0<4Saj`m7j5bCk52
+R7
+R55
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd|
+Z102 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/src/TopLevelModule.vhd|
+!i113 1
+R63
+R12
+Artl
+R0
+R1
+DEx4 work 14 toplevelmodule 0 22 =R@7jzHVoYEdnSlfPG04W3
+32
+R51
+!i10b 1
+!i122 122
+l69
+L23 86
+VN>0T4:_70CNLBi9nnC7]V2
+!s100 `=Ql@SG=]ocHT0`^cIg8G2
+R7
+R55
+R101
+R102
+!i113 1
+R63
+R12
+Etoplevelmodule_tb
+R20
+R0
+R1
+33
+R51
+!i10b 1
+Z103 w1705436062
+!i122 123
+R4
+Z104 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd
+Z105 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd
+l0
+L6 1
+VzX_Xeafze<PWME8_i]TKf2
+!s100 DVHnC;M4IQObe6HIR_=bo0
+R7
+R55
+Z106 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd|
+Z107 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/TopLevelModule/tb/TopLevelModule_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R20
+R0
+R1
+DEx4 work 17 toplevelmodule_tb 0 22 zX_Xeafze<PWME8_i]TKf2
+33
+R51
+!i10b 1
+!i122 123
+l42
+L15 98
+VlGaXCae@dX7LMF3O0QET91
+!s100 UOBiQ8KK;I:[AZEicJ35_3
+R7
+R55
+R106
+R107
+!i113 1
+R11
+R12
+Etransmitter
+R0
+R1
+32
+R51
+!i10b 1
+Z108 w1705048489
+!i122 120
+R4
+Z109 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd
+Z110 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd
+l0
+L5 1
+V72A7KGWoa]O`SU:0:9A;z2
+!s100 >U5SPkzI88_jB]ZT[SDzl0
+R7
+R55
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd|
+Z112 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/src/Transmitter.vhd|
+!i113 1
+R63
+R12
+Artl
+R0
+R1
+DEx4 work 11 transmitter 0 22 72A7KGWoa]O`SU:0:9A;z2
+32
+R51
+!i10b 1
+!i122 120
+l72
+L25 60
+VoADf:OePYFHXcWB6J[K;20
+!s100 54?>>61eIV:aCL_g@>?<61
+R7
+R55
+R111
+R112
+!i113 1
+R63
+R12
+Etransmitter_tb
+R0
+R1
+33
+R51
+!i10b 1
+Z113 w1704814047
+!i122 114
+R4
+Z114 8C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd
+Z115 FC:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd
+l0
+L5 1
+VERlBiV=K38cb]V;P1:Olm3
+!s100 :L5RWz;N=MYJ<f2YCNHK@2
+R7
+R55
+Z116 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd|
+Z117 !s107 C:/Users/LENOVO/Desktop/Nabil/VHDL_Course/VHDL_UDEMY/Project/UART/Transmitter/tb/Transmitter_tb.vhd|
+!i113 1
+R11
+R12
+Artl
+R0
+R1
+DEx4 work 14 transmitter_tb 0 22 ERlBiV=K38cb]V;P1:Olm3
+33
+R51
+!i10b 1
+!i122 114
+l44
+L14 65
+VQ@42fdGV;aZGPdcRQWSmi1
+!s100 gYNaaVo?<EQ]4U?VU@cgE1
+R7
+R55
+R116
+R117
+!i113 1
+R11
+R12
