@@ -1,0 +1,9 @@
+|Synchroniser
+clk => temp[0].CLK
+clk => temp[1].CLK
+rst => temp[0].PRESET
+rst => temp[1].PRESET
+async => temp[0].DATAIN
+synced <= temp[1].DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,9 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity Synchroniser_tb is
+	generic(
+		idle_state : std_logic :='0'
+	);
+end entity;
