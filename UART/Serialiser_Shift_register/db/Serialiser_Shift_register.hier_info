@@ -1,0 +1,44 @@
+|Serialiser_Shift_register
+clk => temp[0].CLK
+clk => temp[1].CLK
+clk => temp[2].CLK
+clk => temp[3].CLK
+clk => temp[4].CLK
+clk => temp[5].CLK
+clk => temp[6].CLK
+clk => temp[7].CLK
+rst => temp[0].PRESET
+rst => temp[1].PRESET
+rst => temp[2].PRESET
+rst => temp[3].PRESET
+rst => temp[4].PRESET
+rst => temp[5].PRESET
+rst => temp[6].PRESET
+rst => temp[7].PRESET
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+Shift_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+load_en => temp.OUTPUTSELECT
+Din[0] => temp.DATAB
+Din[1] => temp.DATAB
+Din[2] => temp.DATAB
+Din[3] => temp.DATAB
+Din[4] => temp.DATAB
+Din[5] => temp.DATAB
+Din[6] => temp.DATAB
+Din[7] => temp.DATAB
+Dout <= temp[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
