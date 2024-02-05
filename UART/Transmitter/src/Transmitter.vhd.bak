@@ -1,0 +1,30 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity Transmitter is
+	generic(
+		N	:	integer	:= 8
+	);
+	port(
+		clk		:		in		std_logic;
+		rst		:		in		std_logic;
+		
+		Txstart	:		in		std_logic;
+		TxData	:		in		std_logic_vector(N-1 downto 1);
+		
+		uart_tx_pin	:	out	std_logic
+		
+		
+	);
+	
+end entity;
+
+
+architecture rtl of Transmitter is
+
+
+begin
+
+
+end rtl;
